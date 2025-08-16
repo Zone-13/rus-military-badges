@@ -1,0 +1,165 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_efreitor.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⣿"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:epaulettes/rank_efreitor.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⹘"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_general_armii.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠂"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_general_leitenant.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠃"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_general_major.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠄"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_general_polkovnik.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠅"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_kapitan.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠆"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_leitenant.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠇"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_major.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠈"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_marshall.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠉"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:epaulettes/rank_marshall.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["ꃳ"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_ml_leitenant.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠊"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_ml_serzhant.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⢺"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_podpolkovnik.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠋"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_praporshik.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠌"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_ryadovoy.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠁"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:epaulettes/rank_ryadovoy.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⸪"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_serzhant.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠍"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_st_leitenant.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠎"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_st_praporshik.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠏"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_st_serzhant.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠑"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_starshina.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠒"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_polkovnik.png",
+      "ascent": 7,
+      "height": 7,
+      "chars":["⠓"]
+    }
+  ]
+}
