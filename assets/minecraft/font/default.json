@@ -9,7 +9,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:epaulettes/rank_efreitor.png",
+      "file": "minecraft:shouldermarks/rank_efreitor.png",
       "ascent": 7,
       "height": 7,
       "chars":["⹘"]
@@ -72,7 +72,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:epaulettes/rank_marshall.png",
+      "file": "minecraft:shouldermarks/rank_marshall.png",
       "ascent": 7,
       "height": 7,
       "chars":["ꃳ"]
@@ -114,7 +114,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:epaulettes/rank_ryadovoy.png",
+      "file": "minecraft:shouldermarks/rank_ryadovoy.png",
       "ascent": 7,
       "height": 7,
       "chars":["⸪"]
